@@ -1,9 +1,9 @@
 # guidr-landing3
 Website Landing Page for Guidr App
 
-##Create React App
+## Create React App
 
-###Quick Overview
+### Quick Overview
 npx create-react-app my-app
 cd my-app
 npm start
